@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-event-source-polyfill@1.0.26:
+event-source-polyfill@^1.0.15:
   version "1.0.26"
   resolved "https://registry.yarnpkg.com/event-source-polyfill/-/event-source-polyfill-1.0.26.tgz#86c04d088ef078279168eefa028f928fec5059a4"
   integrity sha512-IwDLs9fUTcGAyacHBeS53T8wcEkDyDn0UP4tfQqJ4wQP8AyH0mszuQf2ULTylnpI0sMquzJ4usrNV7+uztwI9A==
