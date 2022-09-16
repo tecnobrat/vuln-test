@@ -6,6 +6,6 @@
   "author": "brian@tecnobrat.com",
   "license": "UNLICENSED",
   "dependencies": {
-    "event-source-polyfill": "1.0.15"
+    "event-source-polyfill": "1.0.26"
   }
 }
